@@ -13,6 +13,7 @@ public class day2 {
 		System.out.println("good");
 		System.out.println("morning");
 		System.out.println("night");
+		System.out.println("evening");
 	
 	}
 
