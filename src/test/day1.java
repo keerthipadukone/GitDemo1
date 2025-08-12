@@ -30,6 +30,12 @@ public class day1 {
 	
 	}
 	
+	public void DemoEx()
+	{
+		System.out.println("Kee P hello");
+		//Assert.assertTrue(false);
+	
+	}
 	@AfterSuite
 	public void Afsuite()
 	{

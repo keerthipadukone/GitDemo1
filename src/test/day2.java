@@ -13,6 +13,12 @@ public class day2 {
 		System.out.println("good");
 	
 	}
+	
+	public void rest()
+	{
+		System.out.println("bye");
+	
+	}
 
 	@BeforeTest
 	public void prerequiste()
